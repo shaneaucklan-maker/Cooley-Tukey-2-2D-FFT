@@ -4,6 +4,7 @@ C++(MFC) 환경에서 외부 라이브러리 없이 직접 구현한 2D FFT 엔�
 
 <프로젝트 생성>
 •	Visual Studio에서 다중 문서(MDI) 기반 MFC 애플리케이션을 생성합니다. 프로젝트 이름은 makingfft로 설정합니다.
+
 <bmp파일 배치>
 •	생성된 MFC 앱의 루트 경로(프로젝트 폴더)에 butterfly.bmp 파일을 위치시킵니다.
 
